@@ -1,0 +1,104 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: rap-latex-cv.tex
+geometry: margin=1in
+
+title: "CV"
+author: Grace Brewster Murray Hopper
+#orcid: "orcid.org/0000-0002-9577-6885"
+jobtitle: "Computer Scientist & United States Navy Rear Admiral"
+address: "Address · Arlington · VA 22205"
+fontawesome: yes
+email: FLOW-MATIC@cobol
+github: hopper
+#phone: "+1 555 5555"
+web: 'wikipedia.org/wiki/Grace_Hopper'
+updated: yes
+
+keywords: RMarkdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 10pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# EDUCATION
+
+*Yale University*, Ph.D. Mathematics \hfill 1934
+
+*Yale University*, M.S. Mathematics \hfill 1930
+
+*Vassar College*, B.S. Mathematics & Physics \hfill 1928
+
+# EMPLOYMENT
+
+*United States Naval Reserve:*
+
+ > Naval Reserve Midshipmen's School \hfill 1943--1944
+
+*Bureau of Ships Computation Project (Harvard):*
+
+ > Research Fellow \hfill 1945-1949
+ > Lieutenant, Jr Grade \hfill 1944
+ 
+*Eckert–Mauchly Computer Corporation:*
+
+ >  Senior Mathematician \hfill 1949-–1967
+
+*Navy Programming Languages Group, Navy Office of Information Systems Planning:*
+
+ > Director (and promoted to Captain) \hfill 1967--1977  
+
+# TEACHING
+
+*Associate Professor, Mathematics, Vassar* \hfill 1931--1941
+
+> Teach students about math, began career in programming and largely developed design and implementation of a computer compiler.
+  
+*Director, Navy Programming Languages Group* \hfill 1967--1977
+
+> She developed validation software for COBOL and its compiler as part of a COBOL standardization program for the entire Navy. Hopper advocated for the Defense Department to replace large, centralized systems with networks of small, distributed computers. Any user on any computer node could access common databases located on the network. She developed the implementation of standards for testing computer systems and components, most significantly for early programming languages such as FORTRAN and COBOL. The Navy tests for conformance to these standards led to significant convergence among the programming language dialects of the major computer vendors. In the 1980s, these tests (and their official administration) were assumed by the National Bureau of Standards (NBS), known today as the National Institute of Standards and Technology (NIST). (Source: https://en.wikipedia.org/wiki/Grace_Hopper)
+
+# PUBLICATIONS
+
+## **Journal Articles**
+
+G. M. Hopper and O. Ore. 1934. "*New types of irreducibility criteria*." Bull. Amer. Math. Soc. 40 (216). 
+
+
+
+## **Books**
+
+Beyer, Kurt W. 2009. *Grace Hopper and the Invention of the Information Age*. Cambridge, Massachusetts: MIT Press. ISBN 978-0-262-01310-9.
+
+Williams, Kathleen Broome. 2004. *Grace Hopper: Admiral of the Cyber Sea* (1st ed.). Annapolis, Maryland: Naval Institute Press. ISBN 978-1-55750-952-9.
+
+# PUBLIC MEDIA
+
+"Nano-seconds" lecture by Grace Hopper. https://www.youtube.com/watch?v=JEpsKnWZrJ8
+
+
+# AWARDS
+
+**1964**  *Society of Women Engineers Achievement Award*, the Society’s highest honor, “In recognition of her significant contributions to the burgeoning computer industry as an engineering manager and originator of automatic programming systems.”
+
+**1969**  *Data Processing Management Association Man of the Year* (now called the Distinguished Information Sciences Award)
+
+**1973** *Distinguished Fellow of the British Computer Society*. First American and the first woman of any nationality to be given award.
+
+**1982** *American Association of University Women Achievement Award*
+
+**1987** *Computer History Museum Fellow Award Recipient* First to receive this award, for contributions to the development of programming languages, for standardization efforts, and for lifelong naval service.
+
+**1991**: *National Medal of Technology*
+
+**1996**: *USS Hopper (DDG-70) was launched*. Nicknamed Amazing Grace, it is on a very short list of U.S. military vessels named after women.
+
+**2009**: The Department of Energy's National Energy Research Scientific Computing Center named its flagship system "Hopper"
+
+**2016**: Posthumously awarded a *Presidential Medal of Freedom* for her accomplishments in the field of computer science
+
